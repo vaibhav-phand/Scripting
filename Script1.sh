@@ -4,5 +4,8 @@ echo "We are from batch-27"
 echo "I am learning Git/Github"
 echo "I have added new code"
 echo "I am learning git"
+echo "I am leaning devops"
+echo " I am appling job in devops"
 echo " I am switching branch"
 echo " merge conflict"
+
